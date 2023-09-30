@@ -1,0 +1,15 @@
+2023/09/25 11:12:38 {"callers":["d:/Home/web/blog/main.go: 20 main.init.0"],"level":"info","message":"2023-09-25 11:12:38.8802954 +0800 CST m=+0.026254001: blog server start","time":1695611558892705000}
+2023/09/25 15:05:30 {"callers":["d:/Home/web/blog/main.go: 20 main.init.0"],"level":"error","message":"app.BindAndValid error : State必须是[0 1]中的一个","time":1695625530306990700}
+2023/09/25 22:29:06 {"callers":["d:/Home/web/blog/main.go: 20 main.init.0"],"level":"error","message":"auth info valid error: AppKey为必填字段,AppSecret为必填字段","time":1695652146090325800}
+2023/09/25 22:29:35 {"callers":["d:/Home/web/blog/main.go: 20 main.init.0"],"level":"error","message":"auth info valid error: AppKey为必填字段,AppSecret为必填字段","time":1695652175265695000}
+2023/09/25 22:30:57 {"callers":["d:/Home/web/blog/main.go: 20 main.init.0"],"level":"error","message":"auth info valid error: AppKey为必填字段,AppSecret为必填字段","time":1695652257043119200}
+2023/09/25 22:31:22 {"callers":["d:/Home/web/blog/main.go: 20 main.init.0"],"level":"error","message":"auth info valid error: AppKey为必填字段,AppSecret为必填字段","time":1695652282769603200}
+2023/09/25 22:34:17 {"callers":["d:/Home/web/blog/main.go: 20 main.init.0"],"level":"error","message":"auth info valid error: AppKey为必填字段,AppSecret为必填字段","time":1695652457545317700}
+2023/09/25 22:35:39 {"callers":["d:/Home/web/blog/main.go: 20 main.init.0"],"level":"error","message":"auth info valid error: AppKey为必填字段,AppSecret为必填字段","time":1695652539224705000}
+2023/09/25 22:36:10 {"callers":["d:/Home/web/blog/main.go: 20 main.init.0"],"level":"error","message":"auth info valid error: AppKey为必填字段,AppSecret为必填字段","time":1695652570477519100}
+2023/09/25 22:36:19 {"callers":["d:/Home/web/blog/main.go: 20 main.init.0"],"level":"error","message":"auth info valid error: AppKey为必填字段,AppSecret为必填字段","time":1695652579318075700}
+2023/09/25 22:37:39 {"callers":["d:/Home/web/blog/main.go: 20 main.init.0"],"level":"error","message":"auth info valid error: AppSecret为必填字段,AppKey为必填字段","time":1695652659731205100}
+2023/09/25 22:40:11 {"callers":["d:/Home/web/blog/main.go: 20 main.init.0"],"level":"error","message":"auth info valid error: AppSecret为必填字段,AppKey为必填字段","time":1695652811989597300}
+2023/09/25 22:40:20 {"callers":["d:/Home/web/blog/main.go: 20 main.init.0"],"level":"error","message":"auth info valid error: AppKey为必填字段,AppSecret为必填字段","time":1695652820165850400}
+2023/09/25 22:46:16 {"callers":["d:/Home/web/blog/main.go: 20 main.init.0"],"level":"error","message":"auth info check error: auth fail","time":1695653176195597700}
+2023/09/25 23:23:25 {"callers":["d:/Home/web/blog/main.go: 20 main.init.0"],"level":"info","message":"access log: method: GET, status coe: 200 begin_time: 1695655405, end_time: 1695655405","request":"","response":"{}","time":1695655405329946800}
